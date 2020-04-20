@@ -1,5 +1,5 @@
 # About MarsRover
-MarsRover app created for hepsiburada.com case study. 
+MarsRover app created for NASA
 
 ## Requirements
 Project support .net core 3.1
