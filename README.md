@@ -1,9 +1,8 @@
 # About MarsRover
 MarsRover app created for NASA
 
-## Requirements
+## Dependencies
 Project support .net core 3.1
-
 Using xUnit and Moq for unit tests
 
 ## Business
@@ -22,6 +21,9 @@ It represents the existence of the plateau. The plateau holds its own width,heig
 Rover represents its existence. Rover; knows which plateau it is moving on (_plateau), the coordinates it is on (_coordinates) and the direction of its camera (Direction).
 
 Rover has the ability to move by taking the commands of move with (Move ()).
+
+### MarsRover.Tests : 
+Manager, Plateau and Rover Tests included and run all successfully
 
 ### Case Study : 
 
